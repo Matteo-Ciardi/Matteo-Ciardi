@@ -61,13 +61,12 @@ Frontend-focused projects designed to improve user experience and interface cons
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/tuo-link](https://www.linkedin.com/in/matteo-ciardi-b71b24398/))
-- Email
 
 ---
 
-## ⚡ GitHub Stats
+<!-- ## ⚡ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo-Ciardi&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Ciardi&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Ciardi&show_icons=true&theme=tokyonight) -->
 
