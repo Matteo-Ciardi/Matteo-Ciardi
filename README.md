@@ -1,12 +1,13 @@
 # Matteo Ciardi 👋
 
-Frontend Developer focused on building modern, responsive and visually polished web applications.
+### Jr. Front End Web Developer
 
-I enjoy creating clean user interfaces, improving user experience and developing scalable frontend projects using modern technologies.
+Benvenuto sul mio profilo di GitHub!
+Sono Matteo, e sono un Jr. Front End Developer appassionato di interfacce moderne e performanti, sempre alla ricerca di nuove tecnologie da imparare e nuove Web App da costruire.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Stack Tecnologico
 
 ### 🎨 Frontend
 
@@ -18,55 +19,48 @@ I enjoy creating clean user interfaces, improving user experience and developing
 
 ---
 
-### 🛠 Tools
+### 🛠 Strumenti
 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite)
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman)
+![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios)
+![NPM](https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Attualmente sto approfondendo
 
-- Advanced React development
-- Responsive UI architecture
-- Component reusability
-- Frontend performance
-- Modern web animations
+- Sviluppo avanzato con React
+- Architettura UI responsive
+- TypeScript
+- Performance frontend
+- Animazioni moderne per il web
 
 ---
 
-<!-- ## 📌 Featured Projects
+<!-- ## 📌 Progetti in evidenza
 
-### 🌐 Modern Portfolio
-Modern portfolio focused on responsive layouts, smooth interactions and clean frontend architecture.
+### 🌐 Portfolio Moderno
+Portfolio personale moderno focalizzato su layout responsive, interazioni fluide e architettura frontend pulita.
 
-### ⚛️ React Applications
-Interactive applications built with reusable components and responsive design principles.
+### ⚛️ Applicazioni React
+Applicazioni interattive sviluppate con componenti riutilizzabili e principi di responsive design.
 
-### 🎨 UI Projects
-Frontend-focused projects designed to improve user experience and interface consistency.
+### 🎨 Progetti UI
+Progetti frontend orientati al miglioramento della user experience e della consistenza delle interfacce.
 
 --- -->
 
-## 📈 Goals
+## 📈 Obiettivi
 
-- Grow as a frontend developer
-- Improve UI/UX skills
-- Work on modern web applications
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://linkedin.com/in/tuo-link](https://www.linkedin.com/in/matteo-ciardi-b71b24398/))
+- Crescere come frontend developer
+- Migliorare le competenze UI/UX
+- Lavorare su applicazioni web moderne
 
 ---
 
-<!-- ## ⚡ GitHub Stats
+## 📫 Contatti
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo-Ciardi&layout=compact&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Ciardi&show_icons=true&theme=tokyonight) -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tuo-link)
