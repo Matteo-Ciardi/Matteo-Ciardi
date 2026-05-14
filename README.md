@@ -63,4 +63,4 @@ Progetti frontend orientati al miglioramento della user experience e della consi
 
 ## 📫 Contatti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tuo-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/matteo-ciardi-b71b24398)
