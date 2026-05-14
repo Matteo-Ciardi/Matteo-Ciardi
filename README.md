@@ -1,9 +1,9 @@
 # Matteo Ciardi 👋
 
-### Jr. Front End Web Developer
+### Jr. Frontend Web Developer
 
 Benvenuto sul mio profilo di GitHub!
-Sono Matteo, e sono un Jr. Front End Developer appassionato di interfacce moderne e performanti, sempre alla ricerca di nuove tecnologie da imparare e nuove Web App da costruire.
+Sono Matteo, e sono un Jr. Frontend Developer appassionato di interfacce moderne e performanti, sempre alla ricerca di nuove tecnologie da imparare e nuove Web App da costruire.
 
 ---
 
